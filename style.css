@@ -17,20 +17,10 @@ header {
 
 .top{padding : 15px}
 
-img {
-  width: 300px;
-}
-
-.image-circle {
-    border-radius: 70%; 
-    border: 2px solid green;
-}
-
 header > div > nav {
   width: 300px;
   margin: auto;
   text-decoration: none;
-
 }
 
 /* Set the font family for any h1, h2, or h3 heading */
@@ -66,11 +56,11 @@ img {
   height: auto;
 }
 
-hr {
-  border: 1px solid black;
+.image-circle {
+    border-radius: 70%; 
+    border: 2px solid green;
 }
 
-/* Add your solution below */
-
-.image-circle {
+hr {
+  border: 1px solid black;
 }
