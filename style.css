@@ -15,6 +15,17 @@ header {
   text-space: 30px;
 }
 
+.top{padding : 15px}
+
+img {
+  width: 300px;
+}
+
+.image-circle {
+    border-radius: 70%; 
+    border: 2px solid green;
+}
+
 header > div > nav {
   width: 300px;
   margin: auto;
@@ -28,7 +39,6 @@ h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
-  
 }
 
 article {
