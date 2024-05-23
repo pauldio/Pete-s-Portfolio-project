@@ -15,7 +15,9 @@ header {
   text-space: 30px;
 }
 
-.top{padding : 15px}
+.top-mid{padding: 7px;}
+.top-begin{margin-left: 39px;padding:7px;}
+.top{padding : 10px}
 
 header > div > nav {
   width: 300px;
@@ -57,8 +59,12 @@ img {
 }
 
 .image-circle {
-    border-radius: 70%; 
-    border: 2px solid green;
+  border-radius: 70%; 
+  border: 2px solid green;
+}
+/*Center copyright*/
+.copyright{
+  text-align: center;
 }
 
 hr {
